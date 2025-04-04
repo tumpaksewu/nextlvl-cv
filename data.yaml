@@ -1,0 +1,6 @@
+train: ships-aerial-images/train/images
+val: ships-aerial-images/valid/images
+test: ships-aerial-images/test/images
+
+nc: 1
+names: ['ship']
